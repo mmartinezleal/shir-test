@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/windows/servercore:ltsc2025
+FROM mcr.microsoft.com/windows/servercore:ltsc2022
 ARG INSTALL_JDK=false
 ARG INSTALL_CERT=false
 
